@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mv56VXBg0S9auZafoyLE80Vx8rdYqAl3bg4DWt9xzfSJ1H2dXQgCSPun0Ljup0yurm+IrgymufpVinKz/1ZMXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\containerapps\\containerapps\\containerapps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KishoreSM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
