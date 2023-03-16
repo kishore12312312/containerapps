@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: '5b8708bb-e77a-4f00-ae3d-cad936374843'
   imageRepository: 'kishorecontainerapps'
   containerRegistry: 'testdockert4y.azurecr.io'
-  dockerfilePath: '$(Build.SourcesDirectory)/containerapps/Dockerfile'
+  dockerfilePath: '$(System.DefaultWorkingDirectory)/containerapps/Dockerfile'
   tag: '$(Build.BuildId)'
 
   # Agent VM image name
